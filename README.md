@@ -65,11 +65,11 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-[![Binay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binay-tripathy&show_icons=true)](https://github.com/binay-tripathy)
+[![Binay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)](https://github.com/binay-tripathy)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)
 
 <hr>
 
