@@ -92,7 +92,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Visitor's count](https://Visitor-badge.laobi.icu/badge?page_id=binay-tripathy.binay-tripathy)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor's count](https://Visitor-badge.laobi.icu/badge?page_id=binay-tripathy.binay-tripathy) &nbsp; &nbsp;
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
