@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 -->
 ### Hi there 👋<h2> I'm Binay</h2>
 
-<img align='right' src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="300">
+<img align='right' src="https://user-images.githubusercontent.com/76717116/200188908-e5fcce49-05c3-4d55-9778-ade04327ec56.gif" width="300">
+
 
 <h3> 👨🏻•💻 About Me </h3>
 
