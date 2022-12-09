@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 
-
+<div align="left"><img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kz80xvebcllyb48wj78ly2o8c&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
 <br/>
 
 [![Binay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)](https://github.com/binay-tripathy)
@@ -72,17 +72,20 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)
 
+</div>
+
 <hr>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
+
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/binaytripathy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Binay%20Tripathy-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/binay__tripathy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-binay__tripathy-blue?style=flat-square&logo=instagram"></a>
-  
+
 <a href="https://twitter.com/tripathy_binay"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-tripathy_binay-blue?style=flat-square&logo=twitter"></a>
 
 <a href="mailto:binaytripathy123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-binaytripathy123@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -95,7 +98,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Visitor's count](https://Visitor-badge.laobi.icu/badge?page_id=binay-tripathy.binay-tripathy) &nbsp; &nbsp;
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 
 
 
