@@ -63,8 +63,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 
-<div align="left"><img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kz80xvebcllyb48wj78ly2o8c&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
-<br/>
 
 [![Binay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)](https://github.com/binay-tripathy)
 
