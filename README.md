@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 &nbsp; Python | Java | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap
  
 - 🖥 &nbsp; Photoshop | Figma | Illustrator | 
 
