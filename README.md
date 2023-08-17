@@ -44,33 +44,34 @@ You can click the Preview link to take a look at your changes.
  
 - 🖥 &nbsp; Photoshop | Figma | Illustrator | 
 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
 
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; Network security | Application Security
 
 <hr>
+<div>
+ 
+<a href="https://git.io/streak-stats">
+  <img height=200 width="49%" align="center" src="https://streak-stats.demolab.com?user=binay-tripathy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
+   
+<a href="https://github.com/binay-tripathy/github-readme-stats">
+  <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=binay-tripathy&hide_border=true&count_private=true&show_icons=true&theme=dark" />
+</a>
 
+ </div>
 
-
-[![Binay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)](https://github.com/binay-tripathy)
-
+ <br/>
 <br/>
 
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)
 
+
+
 </div>
+
 
 <hr>
 
