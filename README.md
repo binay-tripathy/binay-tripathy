@@ -2,105 +2,33 @@
 binay-tripathy/binay-tripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋<h2> I'm Binay</h2>
-
-<img align='right' src="https://user-images.githubusercontent.com/76717116/200188908-e5fcce49-05c3-4d55-9778-ade04327ec56.gif" width="300">
-
-
-<h3> 👨🏻•💻 About Me </h3>
-
-
-
-- 🤔 &nbsp; Exploring new technologies.
-
-- 🎓 &nbsp; Studying Computer Science and Engineering at ITER Bhubaneswar.
-
-- 🌱 &nbsp; Learning about Web Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | Java | MySQL
-
-- 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap
- 
-- 🖥 &nbsp; Photoshop | Figma | Illustrator | 
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Network security | Application Security
-
-<hr>
-<div>
- 
-<a href="https://git.io/streak-stats">
-  <img height=200 width="49%" align="center" src="https://streak-stats.demolab.com?user=binay-tripathy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</a>
-   
-<a href="https://github.com/binay-tripathy/github-readme-stats">
-  <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=binay-tripathy&hide_border=true&count_private=true&show_icons=true&theme=dark" />
-</a>
-
- </div>
-
- <br/>
-<br/>
-
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)
-
-
-
-</div>
 
 
 <hr>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+# 💫 About Me:
+🤔   Exploring new technologies.<br><br>🎓   Studying Computer Science and Engineering at ITER Bhubaneswar.<br><br>🌱   Learning about Network Security.<br><br>✍️   Pursuing Web Development as hobbies/side hustles.
 
 
-<p align="center">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binay__tripathy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binaytripathy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tripathy_binay) 
 
-<a href="https://www.linkedin.com/in/binaytripathy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Binay%20Tripathy-blue?style=flat-square&logo=linkedin"></a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=binay-tripathy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=binay-tripathy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://www.instagram.com/binay__tripathy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-binay__tripathy-blue?style=flat-square&logo=instagram"></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<a href="https://twitter.com/tripathy_binay"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-tripathy_binay-blue?style=flat-square&logo=twitter"></a>
+---
+[![](https://visitcount.itsvg.in/api?id=binay-tripathy&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<a href="mailto:binaytripathy123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-binaytripathy123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binaytripathy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/binaytripathy123) 
 
-</p>
-
-
-
-
-
-![Visitor's count](https://Visitor-badge.laobi.icu/badge?page_id=binay-tripathy.binay-tripathy) &nbsp; &nbsp;
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-<hr>
-
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
