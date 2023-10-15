@@ -1,9 +1,3 @@
-<!---
-binay-tripathy/binay-tripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <hr>
 
 ### Hi there 👋<h2> I'm Binay</h2>
