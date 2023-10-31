@@ -111,6 +111,9 @@
   <img src="https://streak-stats.demolab.com?user=binay-tripathy&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=6&date_format=j M[ Y]&order=3" height="180" alt="streak graph"  />
 </div>
 
+
+[![@binaytripathy's Holopin board](https://holopin.io/api/user/board?user=binaytripathy)](https://holopin.io/@binaytripathy)
+
 ###
 
 
