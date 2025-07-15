@@ -85,7 +85,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=binay-tripathy&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=6&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=binay-tripathy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 <br>
 
